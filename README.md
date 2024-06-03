@@ -1,5 +1,7 @@
 Turkish-to-English Translation using Transformer Model
+
 Overview
+
 This project implements a Turkish-to-English translation model using the Transformer architecture. The goal is to train the model on a dataset of Turkish-English sentence pairs, evaluate its performance, and demonstrate its translation capabilities. This work is based on techniques commonly used in the literature for sequence-to-sequence tasks with Transformers.
 
 Dataset
